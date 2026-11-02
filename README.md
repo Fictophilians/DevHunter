@@ -1,4 +1,4 @@
-# 🎯 DevHunter — Personal Job & Internship Application Tracker
+# DevHunter — Personal Job & Internship Application Tracker
 
 **DevHunter** is a modern fullstack web application designed for developers to track, organize, and monitor job and internship applications in one organized dashboard.
 
@@ -6,7 +6,7 @@ Built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **Prisma 
 
 ---
 
-## ✨ Features Roadmap
+## Features Roadmap
 
 - [x] **Day 1:** Project foundation with Next.js 16, TypeScript, Tailwind CSS, & Lucide Icons.
 - [ ] **Day 2:** PostgreSQL Cloud Database connection & Prisma ORM setup.
@@ -24,7 +24,7 @@ Built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **Prisma 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router, Turbopack)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -36,7 +36,7 @@ Built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **Prisma 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -56,7 +56,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
----
-
-## 📝 License
-MIT
